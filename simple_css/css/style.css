@@ -43,14 +43,14 @@ div {
 }
 
 .red {
-    background-color: #970f0f;
+    background-color: #FF6161;
     text-align: right;
     margin-left: 50px; 
     border: 0px 0px 2px 5px;
 }
 
 .blue{
-    background-color: #06339c;
+    background-color: #6694FF;
     text-align: left;
     margin-right: 50px;
     border: 2px 5px 0px 0px;

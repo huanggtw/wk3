@@ -43,21 +43,21 @@ div {
 }
 
 .red {
-    background-color: #FF6161;
+    background-color: red;
     text-align: right;
     margin-left: 50px; 
     border: 0px 0px 2px 5px;
 }
 
 .blue{
-    background-color: #6694FF;
+    background-color: blue;
     text-align: left;
     margin-right: 50px;
     border: 2px 5px 0px 0px;
 }
 
 .yellow {
-    background-color: #ffe600;
+    background-color: yellow;
     text-align: right;
     margin-left: 50px;
     border: 0px 0px 2px 5px;
